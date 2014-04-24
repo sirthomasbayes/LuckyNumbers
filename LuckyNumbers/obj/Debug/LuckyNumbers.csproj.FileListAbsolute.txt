@@ -1,0 +1,6 @@
+C:\code\git\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+C:\code\git\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+C:\code\git\LuckyNumbers\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+C:\code\git\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.csprojResolveAssemblyReference.cache
+C:\code\git\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+C:\code\git\LuckyNumbers\LuckyNumbers\obj\Debug\LuckyNumbers.pdb
